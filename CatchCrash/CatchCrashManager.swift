@@ -1,10 +1,15 @@
-//
-//  CatchCrashManager.swift
-//  TestCatchCrash
-//
-//  Created by liwei on 2017/10/24.
-//  Copyright © 2017年 liwei. All rights reserved.
-//
+/***********************************************************
+ * 版权所有,2017,MeFood.
+ * Copyright(C),2017,MeFood co. LTD.All rights reserved.
+ * project:Li
+ * Author:
+ * Date:  17/10/25
+ * QQ/Tel/Mail:
+ * Description:crash信息获取
+ * Others:
+ * Modifier:
+ * Reason:
+ *************************************************************/
 
 import UIKit
 
